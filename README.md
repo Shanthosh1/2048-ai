@@ -15,7 +15,7 @@ The web front-ends of 2048 game was forked from [gabrielecirulli/2048](https://g
 ## How to run?
 #### Via Go
 ```bash
-go get github.com/xwjdsh/2048-ai
+go get -d github.com/xwjdsh/2048-ai
 cd $GOPATH/src/github.com/xwjdsh/2048-ai
 go build
 ./2048-ai
